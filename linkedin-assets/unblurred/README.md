@@ -7,6 +7,9 @@ These images are original, readable Grafana screenshots and contact sheets. They
 See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for eight curated, unblurred images in suggested post order. The eight-image recommended set is [`linkedin-post-contact-sheet.png`](contact-sheets/linkedin-post-contact-sheet.png). All screenshots currently in the curated folder are organized into [`linkedin-post-contact-sheet-all-selected.png`](contact-sheets/linkedin-post-contact-sheet-all-selected.png) and three topic sheets: operations, security, and database/capacity. The broader contact sheets below are for browsing the full capture set.
 
 ## Contact sheets
+
+Open all contact sheets locally with [`OPEN_CONTACT_SHEETS.sh`](contact-sheets/OPEN_CONTACT_SHEETS.sh); see the [contact sheet instructions](contact-sheets/README.md).
+
 - [`contact-sheet-database-monitoring-originals.png`](contact-sheets/contact-sheet-database-monitoring-originals.png)
 - [`contact-sheet-database-security-originals.png`](contact-sheets/contact-sheet-database-security-originals.png)
 - [`contact-sheet-infrastructure-originals.png`](contact-sheets/contact-sheet-infrastructure-originals.png)
