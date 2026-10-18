@@ -11,6 +11,14 @@ These images are original, readable Grafana screenshots and contact sheets. They
 - [`contact-sheet-operations-originals.png`](contact-sheets/contact-sheet-operations-originals.png)
 - [`screenshot-contact-sheet-originals.png`](contact-sheets/screenshot-contact-sheet-originals.png)
 
+## Complete dashboard contact sheets
+- [`contact-sheet-infrastructure-all-originals.png`](contact-sheets/contact-sheet-infrastructure-all-originals.png)
+- [`contact-sheet-operations-all-originals.png`](contact-sheets/contact-sheet-operations-all-originals.png)
+- [`contact-sheet-database-security-all-originals.png`](contact-sheets/contact-sheet-database-security-all-originals.png)
+- [`contact-sheet-kali-sentinel-all-originals.png`](contact-sheets/contact-sheet-kali-sentinel-all-originals.png)
+- [`contact-sheet-networking-all-originals.png`](contact-sheets/contact-sheet-networking-all-originals.png)
+- [`contact-sheet-kubernetes-observability-all-originals.png`](contact-sheets/contact-sheet-kubernetes-observability-all-originals.png)
+
 ## Dashboard screenshots
 - [`01-docker-containers-advanced-02.png`](dashboard-screenshots/01-docker-containers-advanced-02.png)
 - [`01-docker-containers-advanced-03.png`](dashboard-screenshots/01-docker-containers-advanced-03.png)

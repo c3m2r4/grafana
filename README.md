@@ -4,6 +4,10 @@
 
 This package records the live Grafana dashboards discoverable in the local Kubernetes lab, their configured panels and query identifiers, and local browser screenshots. It does not modify dashboards, Grafana, or lab services.
 
+## Screenshot gallery
+
+Browse [all dashboard screenshots](SCREENSHOTS.md), including every scroll segment. Complete original contact sheets are in [`linkedin-assets/unblurred/contact-sheets/`](linkedin-assets/unblurred/contact-sheets/).
+
 ## Inventory
 
 The live Grafana API returned **53 dashboards** on 2026-10-18. The requested list matched **19** current titles; `05 - Kali Operations` was not found. The inventory also includes dashboards beyond the 20 names in the supplied list.
