@@ -33,3 +33,7 @@ File: [`06-linux-network-stack-node-exporter.png`](linkedin-assets/unblurred/das
 ### Kali Sentinel — Listening Sockets — Listening socket inventory
 ![Kali Sentinel — Listening Sockets](linkedin-assets/unblurred/dashboard-screenshots/07-kali-sentinel-listening-sockets.png)
 File: [`07-kali-sentinel-listening-sockets.png`](linkedin-assets/unblurred/dashboard-screenshots/07-kali-sentinel-listening-sockets.png) · [Full-resolution source](screenshots/19-kali-sentinel-listening-sockets.png)
+
+### Trivy Operator Security Posture & Vulnerability Intelligence — Image vulnerability and configuration findings
+![Trivy Operator Security Posture & Vulnerability Intelligence](linkedin-assets/unblurred/dashboard-screenshots/08-trivy-operator-security-posture-and-vulnerability-intelligence.png)
+File: [`08-trivy-operator-security-posture-and-vulnerability-intelligence.png`](linkedin-assets/unblurred/dashboard-screenshots/08-trivy-operator-security-posture-and-vulnerability-intelligence.png) · [Full-resolution source](screenshots/54-trivy-operator-security-posture-and-vulnerability-intelligence.png) · [Open dashboard in local Grafana](http://localhost:13000/d/trivy-operator-overview/b8875f1?orgId=1&from=now-24h&to=now&timezone=browser&var-namespace=%24__all&var-container=%24__all&var-image=%24__all&var-severity=%24__all&refresh=30s)

@@ -57,3 +57,6 @@ Unblurred Grafana screenshots and contact sheets at full readability. These imag
 ### Kali Linux Executive Overview
 - `22-kali-linux-executive-overview.png`
 - `22-kali-linux-executive-overview-02.png`
+
+### Trivy Operator Security Posture & Vulnerability Intelligence
+- `08-trivy-operator-security-posture-and-vulnerability-intelligence.png`

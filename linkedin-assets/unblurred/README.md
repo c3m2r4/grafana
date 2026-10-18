@@ -4,7 +4,7 @@ These images are original, readable Grafana screenshots and contact sheets. They
 
 ## Recommended LinkedIn set
 
-See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for seven curated, unblurred images in suggested post order. The focused contact sheet is [`linkedin-selection-originals.png`](contact-sheets/linkedin-selection-originals.png). The broader contact sheets below are for browsing the full capture set.
+See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for eight curated, unblurred images in suggested post order. The focused contact sheet is [`linkedin-selection-originals.png`](contact-sheets/linkedin-selection-originals.png). The broader contact sheets below are for browsing the full capture set.
 
 ## Contact sheets
 - [`contact-sheet-database-monitoring-originals.png`](contact-sheets/contact-sheet-database-monitoring-originals.png)
@@ -48,3 +48,6 @@ See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for seven curated, unblurre
 - [`20-linux-network-stack-node-exporter.png`](dashboard-screenshots/20-linux-network-stack-node-exporter.png)
 - [`22-kali-linux-executive-overview-02.png`](dashboard-screenshots/22-kali-linux-executive-overview-02.png)
 - [`22-kali-linux-executive-overview.png`](dashboard-screenshots/22-kali-linux-executive-overview.png)
+
+## Added LinkedIn selection
+- [`08-trivy-operator-security-posture-and-vulnerability-intelligence.png`](dashboard-screenshots/08-trivy-operator-security-posture-and-vulnerability-intelligence.png)

@@ -17,7 +17,7 @@ Infrastructure observability helps answer whether systems are available, saturat
 
 Specialized views keep each workflow legible and make it easier to correlate relevant signals without turning one dashboard into an unreadable wall of panels. The most useful engineering lesson was to document what panels and queries actually exist, make data gaps explicit, and avoid treating a saved query as evidence that its telemetry is healthy.
 
-Possible future work (ideas for a next iteration, not commitments or completed work): continue validating telemetry freshness and coverage, review alert thresholds against the lab's operating patterns, and prepare selectively redacted public images that retain useful panel detail. See [`LINKEDIN_IMAGES.md`](LINKEDIN_IMAGES.md) for the recommended unblurred images and post sequence. The curated images are copies; the full capture archive remains under `screenshots/`.
+Possible future work (ideas for a next iteration, not commitments or completed work): continue validating telemetry freshness and coverage, review alert thresholds against the lab's operating patterns, and prepare selectively redacted public images that retain useful panel detail. See [`LINKEDIN_IMAGES.md`](LINKEDIN_IMAGES.md) for the recommended unblurred images and post sequence, including the Trivy Operator dashboard. The curated images are copies; the full capture archive remains under `screenshots/`.
 
 How do you decide where to draw the boundary between infrastructure health dashboards and security investigation views in a small lab?
 
