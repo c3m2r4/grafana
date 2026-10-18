@@ -55,6 +55,10 @@ Open all contact sheets locally with [`OPEN_CONTACT_SHEETS.sh`](contact-sheets/O
 ## Added LinkedIn selection
 - [`08-trivy-operator-security-posture-and-vulnerability-intelligence.png`](dashboard-screenshots/08-trivy-operator-security-posture-and-vulnerability-intelligence.png)
 
+## Trivy Operator screenshot
+
+The Trivy Operator screenshot is [`08-trivy-operator-security-posture-and-vulnerability-intelligence.png`](dashboard-screenshots/08-trivy-operator-security-posture-and-vulnerability-intelligence.png), shown first in [`linkedin-post-trivy-security.png`](contact-sheets/linkedin-post-trivy-security.png).
+
 ## Organized LinkedIn contact sheets
 - [`linkedin-post-01-overview-and-operations.png`](contact-sheets/linkedin-post-01-overview-and-operations.png)
 - [`linkedin-post-02-security-monitoring.png`](contact-sheets/linkedin-post-02-security-monitoring.png)
