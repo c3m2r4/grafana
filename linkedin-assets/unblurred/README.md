@@ -4,7 +4,7 @@ These images are original, readable Grafana screenshots and contact sheets. They
 
 ## Recommended LinkedIn set
 
-See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for eight curated, unblurred images in suggested post order. The focused contact sheet is [`linkedin-selection-originals.png`](contact-sheets/linkedin-selection-originals.png). The broader contact sheets below are for browsing the full capture set.
+See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for eight curated, unblurred images in suggested post order. The complete, ready-to-post sheet is [`linkedin-post-contact-sheet.png`](contact-sheets/linkedin-post-contact-sheet.png) (all eight selected images). The broader contact sheets below are for browsing the full capture set.
 
 ## Contact sheets
 - [`contact-sheet-database-monitoring-originals.png`](contact-sheets/contact-sheet-database-monitoring-originals.png)
