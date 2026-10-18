@@ -26,6 +26,8 @@ My main takeaway: useful monitoring takes more than attractive charts. It takes 
 
 Next, I plan to validate coverage and data freshness, review alert thresholds against lab behavior, and prepare selectively redacted screenshots for public documentation. I’ve organized the screenshots and contact sheets for review; original captures should be checked for internal hostnames, paths, ports, service details, and values before sharing.
 
+**Project and dashboard screenshots:** [GitHub repository](https://github.com/c3m2r4/grafana) · [LinkedIn top-pick screenshots and contact sheet](https://github.com/c3m2r4/grafana/tree/main/linkedin-post-ready/top-picks) · [Complete screenshot gallery](https://github.com/c3m2r4/grafana/blob/main/SCREENSHOTS.md)
+
 **How do you decide which signals belong on infrastructure health dashboards and which deserve dedicated security investigation views in a small environment?**
 
 #Grafana #Cybersecurity #Observability #Linux #DevSecOps #SecurityEngineering #OpenSource
