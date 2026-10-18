@@ -2,6 +2,10 @@
 
 These images are original, readable Grafana screenshots and contact sheets. They are not sanitized. Review visible lab values, hosts, paths, ports, and service labels before public posting.
 
+## Recommended LinkedIn set
+
+See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for seven curated, unblurred images in suggested post order. The focused contact sheet is [`linkedin-selection-originals.png`](contact-sheets/linkedin-selection-originals.png). The broader contact sheets below are for browsing the full capture set.
+
 ## Contact sheets
 - [`contact-sheet-database-monitoring-originals.png`](contact-sheets/contact-sheet-database-monitoring-originals.png)
 - [`contact-sheet-database-security-originals.png`](contact-sheets/contact-sheet-database-security-originals.png)
