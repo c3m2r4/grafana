@@ -4,7 +4,7 @@ These images are original, readable Grafana screenshots and contact sheets. They
 
 ## Recommended LinkedIn set
 
-See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for eight curated, unblurred images in suggested post order. The complete, ready-to-post sheet is [`linkedin-post-contact-sheet.png`](contact-sheets/linkedin-post-contact-sheet.png) (all eight selected images). The broader contact sheets below are for browsing the full capture set.
+See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for eight curated, unblurred images in suggested post order. The eight-image recommended set is [`linkedin-post-contact-sheet.png`](contact-sheets/linkedin-post-contact-sheet.png). All screenshots currently in the curated folder are organized into [`linkedin-post-contact-sheet-all-selected.png`](contact-sheets/linkedin-post-contact-sheet-all-selected.png) and three topic sheets: operations, security, and database/capacity. The broader contact sheets below are for browsing the full capture set.
 
 ## Contact sheets
 - [`contact-sheet-database-monitoring-originals.png`](contact-sheets/contact-sheet-database-monitoring-originals.png)
@@ -51,3 +51,9 @@ See [`LINKEDIN_IMAGES.md`](../../LINKEDIN_IMAGES.md) for eight curated, unblurre
 
 ## Added LinkedIn selection
 - [`08-trivy-operator-security-posture-and-vulnerability-intelligence.png`](dashboard-screenshots/08-trivy-operator-security-posture-and-vulnerability-intelligence.png)
+
+## Organized LinkedIn contact sheets
+- [`linkedin-post-01-overview-and-operations.png`](contact-sheets/linkedin-post-01-overview-and-operations.png)
+- [`linkedin-post-02-security-monitoring.png`](contact-sheets/linkedin-post-02-security-monitoring.png)
+- [`linkedin-post-03-database-and-capacity.png`](contact-sheets/linkedin-post-03-database-and-capacity.png)
+- [`linkedin-post-contact-sheet-all-selected.png`](contact-sheets/linkedin-post-contact-sheet-all-selected.png)
